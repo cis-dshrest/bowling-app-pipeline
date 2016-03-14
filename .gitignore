@@ -3,4 +3,4 @@ target/
 *.jar
 *.war
 .classpath
-.settings/
+**/*.settings/
